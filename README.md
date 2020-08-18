@@ -7,3 +7,6 @@ mvn clean install from pom.xml
 
 run as java application from DicoveryBankApplication.java
 
+open browser and hit 
+
+http://localhost:8080/
